@@ -1,6 +1,7 @@
 # Python2DTetris
 
-
+2019.07.19
+----------------
 Hello there, this is a simple Tetris game when I was tutoring in NKKM programming school.
 
 The code is written in Lithuanian methods for learning purposes so you should not mind that.
@@ -8,3 +9,9 @@ The code is written in Lithuanian methods for learning purposes so you should no
 Most of the comments (documentation describe the code and what it does)
 
 This probably will be updated, but right now my focus is on other projects.
+
+
+
+------------------
+Version 0.2 pending
+-------------------
